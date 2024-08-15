@@ -1,8 +1,6 @@
-# React + Vite
+# Simple Cart using React Context API
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+This is a Guvi task
+- A simple card demonstration using React Context API
+- Initially all carts will be loaded with items
+- If user reduces the item less than 1 the item will be removed.
